@@ -1,4 +1,4 @@
-Portfolio final grade: 98
+Portfolio final grade: 100
 
 Comments:  Great work, could have been even a little better if you had followed the TODO items more carefully!
 
@@ -28,12 +28,14 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 96
+Grade: 106
 (25% of overall grade)
 
 Points deducted for these items:
     -5 Landscape version of mobile styling does not
     work well.
 
-Bonus points awarded for these items:
+    
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
     +1 proper use of css property not covered in class.
